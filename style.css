@@ -4,6 +4,9 @@ body {
 h1 {
     color: green;
 }
-table {
+tr {
     border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
 }
